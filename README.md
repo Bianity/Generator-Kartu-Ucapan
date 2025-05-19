@@ -2,6 +2,6 @@
 
 Generator kartu ucapan sederhana yang saya buat menggunakan HTML, CSS, dan JavaScript saja.
 
-Jika Anda ingin memiliki full script (no-encrypted) termasuk footer link hak cipta, silahkan hubungi saya bianity.me@gmail.com
+Jika Anda ingin memiliki full script (no-encrypted) termasuk footer link hak cipta, silahkan hubungi saya dengan alamat email: bianity.me@gmail.com atau di https://bianity.me/contact
 
 Demo: https://ucapan.bianity.me
