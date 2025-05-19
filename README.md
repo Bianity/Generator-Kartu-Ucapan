@@ -1,4 +1,4 @@
-[![Kartu-Ucapan-Idul-Fitri-Gratis-05-20-2025-03-09-AM.png](https://i.postimg.cc/qvx1k3dc/Kartu-Ucapan-Idul-Fitri-Gratis-05-20-2025-03-09-AM.png)](https://ucapan.bianity.me)
+[![Kartu-Ucapan-Idul-Fitri-Gratis-05-20-2025-03-09-AM.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzft23G0jI3DTyyhxZWVy13-ZMOJ88vhz7uxUeosvgTZGXeFlWOwpaw2BEXFi_2aDGp3t12UY6f3fVS9OcrYBr0sqUMtQteFNRsEHL89iKvAknFzBuQNSxnMtLcdGPBLKJE45DFe5ldjq7lsCEyBMs_zx5HoBtbQeYY9ynWEzW78bSLt3pBzGhx1qzaUnr/s1366/Kartu-Ucapan-Idul-Fitri-Gratis-05-20-2025_03_09_AM.png)](https://ucapan.bianity.me)
 
 Generator kartu ucapan sederhana yang saya buat menggunakan HTML dan JavaScript saja.
 
