@@ -3,3 +3,5 @@
 Generator kartu ucapan sederhana yang saya buat menggunakan HTML, CSS, dan JavaScript saja.
 
 Jika Anda ingin menghilangkan Footer Link hak cipta, silahkan hubungi saya bianity.me@gmail.com
+
+Demo: https://ucapan.bianity.me
